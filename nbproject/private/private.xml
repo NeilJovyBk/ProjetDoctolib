@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/fragment/fragmentCaveMenuPraticien.html</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/fragment/fragmentCaveHeader.html</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/connexion/viewDoctolibConnect.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/model/ModelPatient.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/praticien/viewInsert.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/index.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/model/ModelPraticien.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/admin/viewInfos.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/controller/config.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/router/router.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/fragment/fragmentDoctolibJumbotron.html</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/model/ModelSpecialite.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/admin/viewspecialitePraticien.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/patient/viewInsertdate.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/connexion/viewDoctolibAccueil.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/connexion/viewDoctolibRegister.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/patient/viewUpdated.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/fragment/fragmentDoctolibFooter.html</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/model/ModelPersonne.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/model/ModelRendezVous.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/fragment/fragmentDoctolibMenu.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/controller/ControllerPatient.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/controller/ControllerAdministrateur.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/praticien/viewPatient.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/admin/viewnbrePraticienPatient.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/praticien/viewCaveAccueil.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/fragment/fragmentDoctolibHeader.html</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/praticien/viewDispoPraticien.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/praticien/viewLibre.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/patient/viewInfoPatient.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/praticien/viewId.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/praticien/viewPatientPraticien.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/controller/ControllerPraticien.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/fragment/fragmentCaveJumbotron.html</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/controller/ControllerConnexionInnovation.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/model/Model.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/fragment/fragmentCaveFooter.html</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/praticien/viewRdv.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/praticien/viewPratricienNote.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/patient/viewInsertid.php</file>
+            <file>file:/D:/UTT/sem2/LO07/projet/app/view/patient/viewRdv.php</file>
+        </group>
+    </open-files>
+</project-private>
